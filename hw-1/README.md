@@ -44,3 +44,7 @@ def sort_list_declarative(numbers):
 ![](../assets/hw-1-3.jpg)
 
 <br><br><hr><br>
+
+[Содержание программы README.md](../README.md)
+
+<br><br>

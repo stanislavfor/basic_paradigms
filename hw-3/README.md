@@ -26,3 +26,7 @@
 ![](../assets/hw-3-0.jpg)
 
 <br><br><hr><br>
+
+[Содержание программы README.md](../README.md)
+
+<br><br>

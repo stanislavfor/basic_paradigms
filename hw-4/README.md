@@ -26,3 +26,7 @@
 
 
 <br><br><hr><br>
+
+[Содержание программы README.md](../README.md)
+
+<br><br>
