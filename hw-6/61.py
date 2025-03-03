@@ -15,7 +15,9 @@ def binary_search(arr, target):
 
 
 # Реализация кода
-sorted_array = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-target = 5
+# sorted_array = [0, 1, 2, 3, 4, 5, 6, 7, 8]
+# target = 4
+sorted_array = [1, 3, 4, 6, 7, 8, 10, 13, 14]
+target = 7
 index = binary_search(sorted_array, target)
 print(f"индекс элемента {target} => {index}")
