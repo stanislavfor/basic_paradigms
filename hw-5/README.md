@@ -35,6 +35,13 @@ sum(arr)
 
 <br><hr><br>
 
+Для работы с файлом можно использовать онлайн редактор (интерпретатор): <br>
+[swi-prolog.org](https://swish.swi-prolog.org/), <br>
+[tutorialspoint.com/execute_prolog_online.php](https://www.tutorialspoint.com/execute_prolog_online.php), <br>
+[ideone.com/l/prolog-swi](https://ideone.com/l/prolog-swi), <br>
+[onecompiler.com/prolog](https://onecompiler.com/prolog) <br>
+Можно установить Prolog на Windows.
+
 ###  Установка Prolog на Windows
 
 1. Перейти на официальный сайт SWI-Prolog [swi-prolog.org](https://www.swi-prolog.org/Download.html). В разделе "Windows" выберать версию для Windows 10 (обычно это 64-bit версия).
